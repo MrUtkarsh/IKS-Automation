@@ -3,4 +3,4 @@
 #
 #sh "terraform init"
 #sh "terraform plan"
-mkdir test
+sh "mkdir test"
