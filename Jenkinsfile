@@ -3,5 +3,5 @@
 #
 #sh "terraform init"
 #sh "terraform plan"
-sh "mkdir test"
-git credentialsId: 'uprakas1', url: 'https://github.com/MrUtkarsh/IKS-Automation'
+#sh "mkdir test"
+#git credentialsId: 'uprakas1', url: 'https://github.com/MrUtkarsh/IKS-Automation'
